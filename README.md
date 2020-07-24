@@ -1,6 +1,6 @@
 # Language-Classification-Using-Naive-Bayes-Algorithm
 The project on Language Classification using Naive-Bayes algorithm deals with classifying and identifying the language of the input string into its correct language category. In order to demonstrate the use-case the model has been trained to detect three different languages. The languages chosen for this model are Slovak (sk), Czec (cs) and English (en). The purpose for choosing slovak and czec is that both of these languages are very similar in the way they are spoken, so if the model is able to distinguish between these two given languages that will ensure the robustness of our model to classify between other dissimilar languages with a very good accuracy.
-
+![](images/diff_lang.jpg)
 # Application of Project:
 In order to understand the application of this project with a concrete example we can consider it as an initial step before performing Language Translation. If the user is not aware of the language he wants to translate using a Language Translator, we can perform a language classification of the input string and then apply appropriate Language Translator tool language conversion. For example Google Auto Detection.
 
@@ -38,5 +38,11 @@ While classified in the hound group or scent hound group in the United States an
 # Results
 ### Let's Look at the interesting results we have obtained :
 
+![](images/english.png)
+![](images/slovak.png)
+![](images/czec.png)
 
 
+
+# Conclusion
+Thus, a model to classify three different languages (English, Slovak, Czec) have been trained and their outputs have been verified for model accuracy.
