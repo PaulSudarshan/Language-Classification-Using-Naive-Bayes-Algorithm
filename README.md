@@ -1,4 +1,6 @@
 # Language-Classification-Using-Naive-Bayes-Algorithm
+[![HitCount](http://hits.dwyl.com/PaulSudarshan/Language-Classification-Using-Naive-Bayes-Algorithm.svg)](http://hits.dwyl.com/PaulSudarshan/Language-Classification-Using-Naive-Bayes-Algorithm)
+
 The project on Language Classification using Naive-Bayes algorithm deals with classifying and identifying the language of the input string into its correct language category. In order to demonstrate the use-case the model has been trained to detect three different languages. The languages chosen for this model are Slovak (sk), Czec (cs) and English (en). The purpose for choosing slovak and czec is that both of these languages are very similar in the way they are spoken, so if the model is able to distinguish between these two given languages that will ensure the robustness of our model to classify between other dissimilar languages with a very good accuracy.
 ![](images/diff_lang.jpg)
 # Application of Project:
